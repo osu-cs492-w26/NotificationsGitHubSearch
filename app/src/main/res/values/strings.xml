@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GitHub Search with Notifications</string>
+
+    <string name="label_github_repo_detail">Repo Details</string>
+    <string name="label_bookmarked_repos">Bookmarked repos</string>
+</resources>
