@@ -3,4 +3,11 @@
 
     <string name="label_github_repo_detail">Repo Details</string>
     <string name="label_bookmarked_repos">Bookmarked repos</string>
+
+    <string name="notification_stars_channel" translatable="false">starsNotificationChannel</string>
+    <string name="notification_stars_channel_title">Star count updates</string>
+
+    <string name="notification_stars_title">New stars for %1$s</string>
+    <string name="notification_stars_text">%1$s has %2$d stars.</string>
+    <string name="notification_stars_summary_title">%1$d repos have new stars!</string>
 </resources>
